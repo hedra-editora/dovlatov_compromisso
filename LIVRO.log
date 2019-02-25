@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  25 FEB 2019 15:50
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  25 FEB 2019 16:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2037,12 +2037,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 Unknown feature `protrusion=default' in font `Georgia'.
 Unknown feature `expansion=default' in font `Georgia'.
- [9] [10]
-Underfull \hbox (badness 2486) in paragraph at lines 109--115
-\TU/AdobeDevanagari(0)/m/it/12 CONFERÊNCIA CIENTÍFICA. Acadêmicos de
- []
-
-[11] [12]
+ [9] [10] [11] [12]
 Underfull \hbox (badness 2582) in paragraph at lines 173--185
 \TU/AdobeDevanagari(0)/m/it/12 em primeiro lugar, zootecnistas escolados que
  []
@@ -2095,104 +2090,109 @@ Underfull \hbox (badness 10000) in paragraph at lines 3202--3203
 \TU/AdobeDevanagari(0)/m/it/12 maior sinceridade pelo inesquecível aconteci-
  []
 
-[89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102]
-[103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114]
-[115]
+[89] [90]
+Underfull \hbox (badness 1708) in paragraph at lines 3258--3260
+[]\TU/AdobeDevanagari(0)/m/n/12 — Váguin está fazendo hora extra! — gritava Cha
+-
+ []
+
+[91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104]
+[105] [106] [107] [108] [109] [110] [111] [112] [113] [114] [115]
 Underfull \hbox (badness 2080) in paragraph at lines 4394--4398
 \TU/AdobeDevanagari(0)/m/n/12 trona funda. Seus pés, calçados nuns velhos \TU/A
 dobeDevanagari(0)/m/it/12 Skorokhód\TU/AdobeDevanagari(0)/m/n/12 ,
  []
 
 [116] [117] [118] [119]
-Underfull \hbox (badness 1189) in paragraph at lines 4602--4604
+Underfull \hbox (badness 1189) in paragraph at lines 4601--4603
 []\TU/AdobeDevanagari(0)/m/n/12 Ao nosso encontro, levantou-se uma mulher de me
 ia-
  []
 
 [120] [121] [122] [123] [124]
-Overfull \hbox (2.20638pt too wide) in paragraph at lines 4840--4842
+Overfull \hbox (2.20638pt too wide) in paragraph at lines 4839--4841
 []\TU/AdobeDevanagari(0)/m/n/12 Passados dez minutos, Jbankóv começou a gritar,
  erguendo-
  []
 
 [125] [126] [127] [128]
-Underfull \hbox (badness 1163) in paragraph at lines 5067--5072
+Underfull \hbox (badness 1163) in paragraph at lines 5066--5071
 []\TU/AdobeDevanagari(0)/m/n/12 — Estou contente, camaradas. Os senhores trabal
 ha-
  []
 
 [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139] [140]
 [141]
-Underfull \hbox (badness 1910) in paragraph at lines 5557--5557
+Underfull \hbox (badness 1910) in paragraph at lines 5556--5556
 []\TU/AdobeDevanagari(0)/m/n/10 78. []Na Mordóvia, situada na região do Volga (
 planície Oka-Don),
  []
 
 [142] [143] [144] [145] [146] [147] [148] [149]
-Underfull \hbox (badness 1122) in paragraph at lines 5863--5873
+Underfull \hbox (badness 1122) in paragraph at lines 5862--5872
 []\TU/AdobeDevanagari(0)/m/n/12 — Ernst Leopóldovitch, resolvemos confiar ao se
 nhor
  []
 
 [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 6322.
+(Font)              <10.95> on input line 6321.
  [161]
 [162] [163] [164] [165] [166] [167] [168] [169]
-Underfull \hbox (badness 2865) in paragraph at lines 6728--6731
+Underfull \hbox (badness 2865) in paragraph at lines 6727--6730
 []\TU/AdobeDevanagari(0)/m/n/12 E também é quando se resolvem conflitos amoroso
 s.
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 6732--6735
+Underfull \hbox (badness 1147) in paragraph at lines 6731--6734
 []\TU/AdobeDevanagari(0)/m/n/12 Em outras palavras, aqui a baderna diária da re
 dação
  []
 
 [170] [171] [172] [173] [174] [175] [176]
-Underfull \hbox (badness 1005) in paragraph at lines 7027--7029
+Underfull \hbox (badness 1005) in paragraph at lines 7026--7028
 []\TU/AdobeDevanagari(0)/m/n/12 Lá estava eu arrumando minhas coisas na rua Tom
 pa
  []
 
 [177] [178] [179] [180] [181] [182] [183] [184] [185] [186] [187] [188]
 [189]
-Underfull \hbox (badness 1221) in paragraph at lines 7545--7549
+Underfull \hbox (badness 1221) in paragraph at lines 7544--7548
 \TU/AdobeDevanagari(0)/m/n/12 Pensou, talvez, que eu tivesse esfaqueado Chablín
 ski (por
  []
 
 [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200]
-Underfull \hbox (badness 2680) in paragraph at lines 8021--8022
+Underfull \hbox (badness 2680) in paragraph at lines 8020--8021
 []\TU/AdobeDevanagari(0)/m/n/12 — Parece que não somos mais necessários — disse
 
  []
 
 [201] [202] [203]
-Underfull \hbox (badness 2042) in paragraph at lines 8182--8184
+Underfull \hbox (badness 2042) in paragraph at lines 8181--8183
 []\TU/AdobeDevanagari(0)/m/n/12 — O centro epidemiológico não permitirá — reagi
 u
  []
 
 [204] [205] [206] [207] [208]
-Underfull \hbox (badness 2277) in paragraph at lines 8360--8361
+Underfull \hbox (badness 2277) in paragraph at lines 8359--8360
 []\TU/AdobeDevanagari(0)/m/it/12 Lazar Boríssovitch Slapak, um engenheiro
  []
 
 [209]
-Underfull \hbox (badness 1281) in paragraph at lines 8383--8384
+Underfull \hbox (badness 1281) in paragraph at lines 8382--8383
 []\TU/AdobeDevanagari(0)/m/n/12 Primeiramente queriam mandar Malkiel, mas Jbank
 óv
  []
 
 [210]
-Underfull \hbox (badness 1824) in paragraph at lines 8441--8445
+Underfull \hbox (badness 1824) in paragraph at lines 8440--8444
 []\TU/AdobeDevanagari(0)/m/n/12 — Não faz mal — disse Jbankóv —, os rapazes do
  []
 
 [211] [212] [213] [214] [215]
-Underfull \hbox (badness 1540) in paragraph at lines 8636--8637
+Underfull \hbox (badness 1540) in paragraph at lines 8635--8636
 []\TU/AdobeDevanagari(0)/m/n/12 Nesse momento, Gúrtchenko, o velho sem um braço
 ,
  []
@@ -2249,6 +2249,6 @@ Here is how much of TeX's memory you used:
  30985 multiletter control sequences out of 15000+600000
  542210 words of font info for 124 fonts, out of 8000000 for 9000
  1380 hyphenation exceptions out of 8191
- 48i,12n,86p,10384b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,12n,86p,10384b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (232 pages, 3469528 bytes).
+Output written on LIVRO.xdv (232 pages, 3449864 bytes).
