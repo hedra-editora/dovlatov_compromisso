@@ -1,14 +1,14 @@
 # Fdb version 3
-["makeindex LIVRO.idx"] 1550867926 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1550871215
-  "LIVRO.idx" 1550871208 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex LIVRO.idx"] 1550867926 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1551116480
+  "LIVRO.idx" 1551116474 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "LIVRO.ilg"
   "LIVRO.ind"
-["xdvipdfmx"] 1550871214 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1550871215
-  "LIVRO.xdv" 1550871214 3326476 256fbd6766cc88b149f4acd7e5777b4b "xelatex"
+["xdvipdfmx"] 1551116479 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1551116480
+  "LIVRO.xdv" 1551116479 3349004 d72222d871e44940b09d4e67f26869c7 "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1550871206 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1550871215
+["xelatex"] 1551116472 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1551116480
   "/home/editorial/texmf/tex/aparatos.sty" 1496083773 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/commands.sty" 1496083773 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/home/editorial/texmf/tex/frontlayout.sty" 1522961913 1454 12134bf9b3d761fd4c3d46f05ff90c4c ""
@@ -165,23 +165,24 @@
   "/usr/share/texmf/tex/latex/MyriadPro/MyriadPro.cfg" 1505421897 99 3310681318d405b263a0bb1d411b3059 ""
   "/usr/share/texmf/tex/latex/MyriadPro/MyriadPro.sty" 1505421897 33695 2a73bd906d6386e620eb44621bd2fa38 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1509478212 4066395 6b322c5d2cda5c7d3fa6f2e6378d2f25 ""
-  "INPUTS.aux" 1550871214 1728 74b27cbc7641e0a26b1c29ad0e7eb821 ""
+  "INPUTS.aux" 1551116479 1728 c5985349823cb429e9c8aebdae317c87 ""
   "INPUTS.tex" 1550871204 88 5392fec3ed1ec96bf466c2f024703ff9 ""
-  "LIVRO.aux" 1550871214 414 1bf1a6718cb4c3874a322219af1e8d78 ""
+  "LIVRO.aux" 1551116479 414 1e4cc13d939786aa20ce704f83cf401f ""
   "LIVRO.ind" 1550867926 0 d41d8cd98f00b204e9800998ecf8427e "makeindex LIVRO.idx"
-  "LIVRO.tex" 1550868235 6233 0f4ad34cdaa764d06d889d01a3701ceb ""
-  "ORIGINAIS.tex" 1550871152 323103 fcb607b314935a8daca263413b6a1c63 ""
+  "LIVRO.tex" 1551114984 6298 f11d27848dd7e096cfb416efca422579 ""
+  "ORIGINAIS.tex" 1551116454 319795 93c3f8230b1d36a5ba8dcdeb23f1a5cd ""
   "TOC.tex" 1550870246 224 14256e17f2c68fd6071f1d0e5f7b5115 ""
   "fichatecnica.sty" 1550868439 2307 96261646d2c217c5b4f72f9b7b59f5fa ""
-  "fronthedra.tex" 1550869519 4388 7a527a0cff7b8983411dc90f7be80e84 ""
-  "gitrevisioninfo.sty" 1550871206 35 a439be91f8ef028c12ca387131fa174f ""
+  "fronthedra.tex" 1551112168 4388 7a527a0cff7b8983411dc90f7be80e84 ""
+  "gitrevisioninfo.sty" 1551116456 35 c79d461b107841178adc6926fec5d76b ""
   "hedraextra.sty" 1550867078 6390 65a9b8588c7612c4e2512564697fa8c1 ""
   "hedraoptions.sty" 1550867078 3886 61d33d28d50ab10e3cec5929457347b4 ""
   "logos.jpg" 1550867922 8436 2c824945e202c3077dc77aef9f3397f4 ""
   "tipografia.sty" 1550867078 10017 a573b6d3301d589102b3ac8b7200304d ""
   (generated)
-  "LIVRO.aux"
-  "INPUTS.aux"
-  "LIVRO.xdv"
   "LIVRO.log"
+  "LIVRO.aux"
+  "LIVRO.xdv"
+  "LIVRO.ent"
+  "INPUTS.aux"
   "LIVRO.idx"
