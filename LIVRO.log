@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  25 FEB 2019 14:41
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  25 FEB 2019 15:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1969,10 +1969,10 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Unknown feature `protrusion=default' in font `MinionPro-Regular'.
-Unknown feature `expansion=default' in font `MinionPro-Regular'.
+Unknown feature `protrusion=default' in font `Myriad Pro Light'.
+Unknown feature `expansion=default' in font `Myriad Pro Light'.
 Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `MinionPro-Regular' (encoding: TU).
+(microtype)             `MyriadPro-Light' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package microtype Info: Loading generic protrusion settings for font family
@@ -1985,12 +1985,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 ]
-Unknown feature `protrusion=default' in font `Myriad Pro Light'.
-Unknown feature `expansion=default' in font `Myriad Pro Light'.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `MyriadPro-Light' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
 Unknown feature `protrusion=default' in font `Adobe Devanagari Bold'.
 Unknown feature `expansion=default' in font `Adobe Devanagari Bold'.
 Unknown feature `protrusion=default' in font `Myriad Pro Semibold'.
@@ -2203,19 +2197,58 @@ Underfull \hbox (badness 1540) in paragraph at lines 8636--8637
 ,
  []
 
-[216] [217])) [218] 
+[216] [217] [218] [219]
+File: ./imgs/autocharge.jpg Graphic file (type bmp)
+<./imgs/autocharge.jpg>
+ [220] [221]
+Unknown feature `protrusion=default' in font `Myriad Pro Light'.
+Unknown feature `expansion=default' in font `Myriad Pro Light'.
+Unknown feature `protrusion=default' in font `Myriad Pro Semibold'.
+Unknown feature `expansion=default' in font `Myriad Pro Semibold'.
+) [222] [223] (./CREDITOS.tex [224]
+Unknown feature `protrusion=default' in font `Myriad Pro Light'.
+Unknown feature `expansion=default' in font `Myriad Pro Light'.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+[225]
+Unknown feature `protrusion=default' in font `Myriad Pro Light'.
+Unknown feature `expansion=default' in font `Myriad Pro Light'.
+ [226] [227]
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+[228]
+Unknown feature `protrusion=default' in font `Myriad Pro Light Italic'.
+Unknown feature `expansion=default' in font `Myriad Pro Light Italic'.
+Unknown feature `protrusion=default' in font `Adobe Devanagari'.
+Unknown feature `expansion=default' in font `Adobe Devanagari'.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 121.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 121.
+ [229]
+File: ./imgs/ficha.jpg Graphic file (type bmp)
+<./imgs/ficha.jpg>
+)) [230] 
 AED: lastpage setting LastPage
-[219
+[231
 
 
-] [220] (./LIVRO.aux (./INPUTS.aux)) ) 
+]
+Unknown feature `protrusion=default' in font `Myriad Pro Light'.
+Unknown feature `expansion=default' in font `Myriad Pro Light'.
+ [232] (./LIVRO.aux (./INPUTS.aux)) ) 
 Here is how much of TeX's memory you used:
- 27501 strings out of 492998
- 502477 string characters out of 6139960
- 730830 words of memory out of 5000000
- 30927 multiletter control sequences out of 15000+600000
- 539405 words of font info for 108 fonts, out of 8000000 for 9000
+ 27580 strings out of 492998
+ 504405 string characters out of 6139960
+ 730827 words of memory out of 5000000
+ 30985 multiletter control sequences out of 15000+600000
+ 542210 words of font info for 124 fonts, out of 8000000 for 9000
  1380 hyphenation exceptions out of 8191
  48i,12n,86p,10384b,395s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (220 pages, 3349004 bytes).
+Output written on LIVRO.xdv (232 pages, 3469528 bytes).
