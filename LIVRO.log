@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  27 FEB 2019 17:06
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  28 FEB 2019 17:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2234,67 +2234,75 @@ Unknown feature `protrusion=default' in font `Myriad Pro Light'.
 Unknown feature `expansion=default' in font `Myriad Pro Light'.
 Unknown feature `protrusion=default' in font `Myriad Pro Semibold'.
 Unknown feature `expansion=default' in font `Myriad Pro Semibold'.
- [222] [223]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 8816.
- [224] [225] [226] [227]
-[228] [229] [230] [231] [232]
-Underfull \hbox (badness 3291) in paragraph at lines 9152--9161
+ [222] [223] [224] [225] [226] [227]
+[228] [229] [230] [231] [232] [233]
+Underfull \hbox (badness 3291) in paragraph at lines 9154--9163
 []\TU/AdobeDevanagari(0)/m/n/12 Referindo-se a alguns personagens de Dovlátov, 
 Ígor
  []
 
-[233] [234] [235]
-Unknown feature `protrusion=default' in font `Adobe Devanagari Italic'.
-Unknown feature `expansion=default' in font `Adobe Devanagari Italic'.
- [236] [237]
+[234] [235] [236] [237]
+Underfull \hbox (badness 1009) in paragraph at lines 9284--9298
+\TU/AdobeDevanagari(0)/m/n/12 iminente, quando a loucura se converte num
+ []
+
+
+Underfull \hbox (badness 1490) in paragraph at lines 9308--9315
+\TU/AdobeDevanagari(0)/m/n/12 mesmo tempo, irônico e espirituoso. Como
+ []
+
+[238]
 Unknown feature `protrusion=default' in font `Myriad Pro Semibold Italic'.
 Unknown feature `expansion=default' in font `Myriad Pro Semibold Italic'.
- [238] [239] [240]) (./CREDITOS.tex [241]
+ [239] [240] [241]) (./CREDITOS.tex [242] [243
+
+]
 Unknown feature `protrusion=default' in font `Myriad Pro Light'.
 Unknown feature `expansion=default' in font `Myriad Pro Light'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
 Unknown feature `protrusion=default' in font `Myriad Pro Light Italic'.
 Unknown feature `expansion=default' in font `Myriad Pro Light Italic'.
-[242]
+[244]
 Unknown feature `protrusion=default' in font `Myriad Pro Light'.
 Unknown feature `expansion=default' in font `Myriad Pro Light'.
- [243] [244]
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
+ [245] [246]
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-[245]
+[247]
 Unknown feature `protrusion=default' in font `Myriad Pro Light Italic'.
 Unknown feature `expansion=default' in font `Myriad Pro Light Italic'.
 Unknown feature `protrusion=default' in font `Adobe Devanagari'.
 Unknown feature `expansion=default' in font `Adobe Devanagari'.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 149.
+(Font)              <9> on input line 152.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 149.
- [246]
+(Font)              <5> on input line 152.
+ [248]
 File: ./imgs/ficha.jpg Graphic file (type bmp)
 <./imgs/ficha.jpg>
-)) [247] 
+)) [249] 
 AED: lastpage setting LastPage
 Unknown feature `protrusion=default' in font `Myriad Pro Light'.
 Unknown feature `expansion=default' in font `Myriad Pro Light'.
-[248
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 216.
+[250
 
 
 ] (./LIVRO.aux (./INPUTS.aux)) ) 
 Here is how much of TeX's memory you used:
- 27597 strings out of 492998
- 504850 string characters out of 6139960
+ 27596 strings out of 492998
+ 504682 string characters out of 6139960
  730827 words of memory out of 5000000
  31000 multiletter control sequences out of 15000+600000
- 542226 words of font info for 126 fonts, out of 8000000 for 9000
+ 542218 words of font info for 125 fonts, out of 8000000 for 9000
  1380 hyphenation exceptions out of 8191
- 48i,12n,86p,10384b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,12n,86p,10384b,356s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (248 pages, 3781156 bytes).
+Output written on LIVRO.xdv (250 pages, 3784228 bytes).
