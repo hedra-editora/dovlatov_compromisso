@@ -1,14 +1,14 @@
 # Fdb version 3
-["makeindex LIVRO.idx"] 1551121769 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1552331108
-  "LIVRO.idx" 1552329475 0 d41d8cd98f00b204e9800998ecf8427e ""
+["makeindex LIVRO.idx"] 1551121769 "LIVRO.idx" "LIVRO.ind" "LIVRO" 1552337754
+  "LIVRO.idx" 1552337747 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "LIVRO.ind"
   "LIVRO.ilg"
-["xdvipdfmx"] 1552329482 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1552331108
-  "LIVRO.xdv" 1552329481 3792068 c5dfa90594af66589bcf083a92c42d7a "xelatex"
+["xdvipdfmx"] 1552337753 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1552337754
+  "LIVRO.xdv" 1552337753 3793568 98a59dbf109c1859e00e59535cb5f18f "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1552329474 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1552331108
+["xelatex"] 1552337745 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1552337754
   "/home/editorial/texmf/tex/aparatos.sty" 1496083773 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/commands.sty" 1496083773 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/home/editorial/texmf/tex/frontlayout.sty" 1522961913 1454 12134bf9b3d761fd4c3d46f05ff90c4c ""
@@ -174,17 +174,17 @@
   "/usr/share/texmf/tex/latex/MyriadPro/MyriadPro.cfg" 1505421897 99 3310681318d405b263a0bb1d411b3059 ""
   "/usr/share/texmf/tex/latex/MyriadPro/MyriadPro.sty" 1505421897 33695 2a73bd906d6386e620eb44621bd2fa38 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1509478212 4066395 6b322c5d2cda5c7d3fa6f2e6378d2f25 ""
-  "CREDITOS.tex" 1551386906 7486 555943f3bd0d2df166e165d9e1a6fc11 ""
-  "INPUTS.aux" 1552329481 2401 6ccc306cf13f8faf8cd46eba775c478a ""
+  "CREDITOS.tex" 1552337740 7705 7643faf342b911804193cbabfa4958a7 ""
+  "INPUTS.aux" 1552337753 2401 6ccc306cf13f8faf8cd46eba775c478a ""
   "INPUTS.tex" 1551116698 108 4a9449d2f65b52fdd3cb25df84b79ac9 ""
-  "LIVRO.aux" 1552329481 414 8181ec1c10beb01d1fd680d2dc8d1b10 ""
+  "LIVRO.aux" 1552337753 414 8181ec1c10beb01d1fd680d2dc8d1b10 ""
   "LIVRO.ind" 1551299516 0 d41d8cd98f00b204e9800998ecf8427e "makeindex LIVRO.idx"
   "LIVRO.tex" 1551992854 6323 cac76001054be17bd0782873fce8512f ""
-  "ORIGINAIS.tex" 1552329438 368028 97252bffa94b8d6fcee61c9708f6debf ""
+  "ORIGINAIS.tex" 1552337411 367930 5c34dae208466ae1b994c78c84a0ac82 ""
   "TOC.tex" 1551201790 281 000176db9cb2912869d9fe5d240a674c ""
   "fichatecnica.sty" 1550868439 2307 96261646d2c217c5b4f72f9b7b59f5fa ""
   "fronthedra.tex" 1551300903 4385 6c8cf24852018dbb7cee2533a519bf09 ""
-  "gitrevisioninfo.sty" 1552331108 35 b18685f194e6e8309e42eec6a7f6f5f5 ""
+  "gitrevisioninfo.sty" 1552337745 35 2c129152781a64d4675513e9f8e89d85 ""
   "hedraextra.sty" 1550867078 6390 65a9b8588c7612c4e2512564697fa8c1 ""
   "hedraoptions.sty" 1550867078 3886 61d33d28d50ab10e3cec5929457347b4 ""
   "imgs/autocharge.jpg" 1551291629 113362 6933037b43a3367c91f7d1d8ed57f276 ""
@@ -192,8 +192,8 @@
   "logos.jpg" 1550867922 8436 2c824945e202c3077dc77aef9f3397f4 ""
   "tipografia.sty" 1550867078 10017 a573b6d3301d589102b3ac8b7200304d ""
   (generated)
-  "INPUTS.aux"
-  "LIVRO.aux"
   "LIVRO.log"
-  "LIVRO.idx"
+  "LIVRO.aux"
   "LIVRO.xdv"
+  "LIVRO.idx"
+  "INPUTS.aux"

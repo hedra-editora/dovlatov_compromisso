@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  11 MAR 2019 15:37
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  11 MAR 2019 17:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2261,7 +2261,7 @@ Unknown feature `expansion=default' in font `Myriad Pro Light Italic'.
 Unknown feature `protrusion=default' in font `Myriad Pro Light'.
 Unknown feature `expansion=default' in font `Myriad Pro Light'.
  [247] [248]
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
@@ -2271,9 +2271,9 @@ Unknown feature `expansion=default' in font `Myriad Pro Light Italic'.
 Unknown feature `protrusion=default' in font `Adobe Devanagari'.
 Unknown feature `expansion=default' in font `Adobe Devanagari'.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 152.
+(Font)              <9> on input line 156.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 152.
+(Font)              <5> on input line 156.
  [250]
 File: ./imgs/ficha.jpg Graphic file (type bmp)
 <./imgs/ficha.jpg>
@@ -2296,4 +2296,4 @@ Here is how much of TeX's memory you used:
  1381 hyphenation exceptions out of 8191
  48i,12n,86p,10384b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (252 pages, 3792068 bytes).
+Output written on LIVRO.xdv (252 pages, 3793568 bytes).
