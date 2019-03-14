@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  12 MAR 2019 14:42
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  14 MAR 2019 15:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1981,8 +1981,10 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
  [1
 
-] [2
-
+]
+File: ./logo_instituto1.jpg Graphic file (type bmp)
+<./logo_instituto1.jpg>
+ [2
 
 ]
 Unknown feature `protrusion=default' in font `Adobe Devanagari Bold'.
@@ -1997,7 +1999,9 @@ Unknown feature `protrusion=default' in font `Myriad Pro Light'.
 Unknown feature `expansion=default' in font `Myriad Pro Light'.
 File: logos.jpg Graphic file (type bmp)
 <logos.jpg>
- [3]
+ [3
+
+]
 \c@mv@tabular=\count367
 \c@mv@boldtabular=\count368
  [4
@@ -2124,20 +2128,20 @@ Underfull \hbox (badness 3601) in paragraph at lines 3278--3279
 
 [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104]
 [105] [106] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116]
-[117] [118] [119]
+[117] [118] [119] [120]
 Underfull \hbox (badness 1189) in paragraph at lines 4615--4617
 []\TU/AdobeDevanagari(0)/m/n/12 Ao nosso encontro, levantou-se uma mulher de me
 ia-
  []
 
-[120] [121] [122] [123] [124]
-Overfull \hbox (2.20638pt too wide) in paragraph at lines 4855--4857
+[121] [122] [123] [124]
+Overfull \hbox (2.20638pt too wide) in paragraph at lines 4854--4856
 []\TU/AdobeDevanagari(0)/m/n/12 Passados dez minutos, Jbankóv começou a gritar,
  erguendo-
  []
 
 [125] [126] [127] [128] [129]
-Underfull \hbox (badness 1163) in paragraph at lines 5082--5087
+Underfull \hbox (badness 1163) in paragraph at lines 5080--5085
 []\TU/AdobeDevanagari(0)/m/n/12 — Estou contente, camaradas. Os senhores trabal
 ha-
  []
@@ -2147,37 +2151,37 @@ ha-
 ] [133] [134] [135] [136] [137] [138
 
 ]
-Underfull \hbox (badness 1019) in paragraph at lines 5413--5419
+Underfull \hbox (badness 1019) in paragraph at lines 5411--5417
 \TU/AdobeDevanagari(0)/m/it/12 trou insubordinação aos funcionários do posto,
  []
 
 [139] [140] [141]
-Underfull \hbox (badness 1910) in paragraph at lines 5576--5576
-[]\TU/AdobeDevanagari(0)/m/n/10 87. []Na Mordóvia, situada na região do Volga (
+Underfull \hbox (badness 1910) in paragraph at lines 5574--5574
+[]\TU/AdobeDevanagari(0)/m/n/10 90. []Na Mordóvia, situada na região do Volga (
 planície Oka-Don),
  []
 
 [142] [143] [144] [145] [146] [147] [148] [149]
-Underfull \hbox (badness 1122) in paragraph at lines 5885--5895
+Underfull \hbox (badness 1122) in paragraph at lines 5883--5893
 []\TU/AdobeDevanagari(0)/m/n/12 — Ernst Leopóldovitch, resolvemos confiar ao se
 nhor
  []
 
 [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161]
 [162] [163] [164] [165] [166] [167] [168] [169] [170]
-Underfull \hbox (badness 2865) in paragraph at lines 6738--6741
+Underfull \hbox (badness 2865) in paragraph at lines 6736--6739
 []\TU/AdobeDevanagari(0)/m/n/12 E também é quando se resolvem conflitos amoroso
 s.
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 6742--6745
+Underfull \hbox (badness 1147) in paragraph at lines 6740--6743
 []\TU/AdobeDevanagari(0)/m/n/12 Em outras palavras, aqui a baderna diária da re
 dação
  []
 
 [171] [172] [173] [174] [175] [176] [177] [178]
-Underfull \hbox (badness 1005) in paragraph at lines 7037--7039
+Underfull \hbox (badness 1005) in paragraph at lines 7035--7037
 []\TU/AdobeDevanagari(0)/m/n/12 Lá estava eu arrumando minhas coisas na rua Tom
 pa
  []
@@ -2186,41 +2190,41 @@ pa
 
 ] [183] [184] [185] [186] [187] [188] [189] [190]
 [191]
-Underfull \hbox (badness 1221) in paragraph at lines 7557--7561
+Underfull \hbox (badness 1221) in paragraph at lines 7555--7559
 \TU/AdobeDevanagari(0)/m/n/12 Pensou, talvez, que eu tivesse esfaqueado Chablín
 ski (por
  []
 
 [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202]
-Underfull \hbox (badness 2680) in paragraph at lines 8038--8039
+Underfull \hbox (badness 2680) in paragraph at lines 8036--8037
 []\TU/AdobeDevanagari(0)/m/n/12 — Parece que não somos mais necessários — disse
 
  []
 
 [203] [204] [205]
-Underfull \hbox (badness 2042) in paragraph at lines 8199--8201
+Underfull \hbox (badness 2042) in paragraph at lines 8197--8199
 []\TU/AdobeDevanagari(0)/m/n/12 — O centro epidemiológico não permitirá — reagi
 u
  []
 
 [206] [207] [208] [209] [210]
-Underfull \hbox (badness 1515) in paragraph at lines 8379--8380
+Underfull \hbox (badness 1515) in paragraph at lines 8377--8378
 []\TU/AdobeDevanagari(0)/m/it/12 Lazar Boríssovitch Slapak, um engenheiro-
  []
 
 [211]
-Underfull \hbox (badness 1281) in paragraph at lines 8402--8403
+Underfull \hbox (badness 1281) in paragraph at lines 8400--8401
 []\TU/AdobeDevanagari(0)/m/n/12 Primeiramente queriam mandar Malkiel, mas Jbank
 óv
  []
 
 [212]
-Underfull \hbox (badness 1824) in paragraph at lines 8460--8464
+Underfull \hbox (badness 1824) in paragraph at lines 8458--8462
 []\TU/AdobeDevanagari(0)/m/n/12 — Não faz mal — disse Jbankóv —, os rapazes do
  []
 
 [213] [214] [215] [216] [217]
-Underfull \hbox (badness 1540) in paragraph at lines 8654--8655
+Underfull \hbox (badness 1540) in paragraph at lines 8652--8653
 []\TU/AdobeDevanagari(0)/m/n/12 Nesse momento, Gúrtchenko, o velho sem um braço
 ,
  []
@@ -2237,20 +2241,25 @@ Unknown feature `protrusion=default' in font `Myriad Pro Light'.
 Unknown feature `expansion=default' in font `Myriad Pro Light'.
 Unknown feature `protrusion=default' in font `Myriad Pro Semibold'.
 Unknown feature `expansion=default' in font `Myriad Pro Semibold'.
- [224] [225] [226] [227] [228] [229]
-[230] [231] [232] [233] [234] [235]
-Underfull \hbox (badness 3291) in paragraph at lines 9187--9196
+ [224] [225]
+Underfull \hbox (badness 2735) in paragraph at lines 8851--8860
+\TU/AdobeDevanagari(0)/m/n/12 grupo do historiador cultural e semioticista Iúri
+ Lótman
+ []
+
+[226] [227] [228] [229] [230] [231] [232] [233] [234] [235]
+Underfull \hbox (badness 3291) in paragraph at lines 9185--9194
 []\TU/AdobeDevanagari(0)/m/n/12 Referindo-se a alguns personagens de Dovlátov, 
 Ígor
  []
 
 [236] [237] [238] [239]
-Underfull \hbox (badness 1009) in paragraph at lines 9317--9331
+Underfull \hbox (badness 1009) in paragraph at lines 9315--9329
 \TU/AdobeDevanagari(0)/m/n/12 iminente, quando a loucura se converte num
  []
 
 
-Underfull \hbox (badness 1490) in paragraph at lines 9341--9348
+Underfull \hbox (badness 1490) in paragraph at lines 9339--9346
 \TU/AdobeDevanagari(0)/m/n/12 mesmo tempo, irônico e espirituoso. Como
  []
 
@@ -2300,12 +2309,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 ] (./LIVRO.aux (./INPUTS.aux)) ) 
 Here is how much of TeX's memory you used:
- 27602 strings out of 492998
- 504912 string characters out of 6139960
- 730827 words of memory out of 5000000
- 31003 multiletter control sequences out of 15000+600000
+ 27606 strings out of 492998
+ 505007 string characters out of 6139960
+ 731256 words of memory out of 5000000
+ 31006 multiletter control sequences out of 15000+600000
  542226 words of font info for 126 fonts, out of 8000000 for 9000
  1381 hyphenation exceptions out of 8191
- 55i,12n,86p,10384b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,86p,10384b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (252 pages, 3794916 bytes).
+Output written on LIVRO.xdv (252 pages, 3797472 bytes).

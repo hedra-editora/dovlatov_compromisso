@@ -287,6 +287,7 @@ INPUT /usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 OUTPUT LIVRO.xdv
+INPUT ./logo_instituto1.jpg
 INPUT logos.jpg
 OUTPUT INPUTS.aux
 INPUT INPUTS.tex
