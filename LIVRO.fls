@@ -1,4 +1,4 @@
-PWD /home/editorial/LATEX/dovlatov_compromisso
+PWD /home/editorial/LATEX/OLD/dovlatov_compromisso
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
 INPUT LIVRO.tex
